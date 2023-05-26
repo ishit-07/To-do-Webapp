@@ -79,12 +79,14 @@
     font-size: large;
 }
 
-.input .form .input-data .bx {
+.input .form .input-data button{
     background: rgb(197, 35, 35);
+    font-family: Roboto;
+    margin-left: 20px;
     padding: 6px;
     font-size: 28px;
     font-weight: 900;
-    border-radius: 50%;
+    border-radius: 10px;
     border: 6px solid rgb(197, 35, 35);
 }
 
